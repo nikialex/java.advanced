@@ -26,7 +26,7 @@ public class Employee {
     private LocalDate startingDate;
 
 
-    public static void writeHiredEmployeesToExcel(List<Candidate> approvedCandidates, String pathFile) {
+    private static List<Employee> getEmployeesForWritongToExcel(List<Candidate> approvedCandidates) {
 
 
         List<Employee> employees = new ArrayList<>();
@@ -44,6 +44,13 @@ public class Employee {
 
             employees.add(currEmp);
         });
+        return employees;
+    }
+
+    public static void writeHiredEmployeesToExcel(List<Candidate> approvedCandidates, String pathFile) {
+
+
+        List<Employee> employees = getEmployeesForWritongToExcel(approvedCandidates);
 
 
         //Create blank workbook
