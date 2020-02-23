@@ -1,9 +1,10 @@
-package homework.rest.artists;
+package lecture9.homework.rest.artists;
 
-import homework.repository.artist.Artist;
-import homework.repository.song.Song;
-import homework.service.SongServiceImpl;
-import homework.service.artists.ArtistService;
+
+import lecture9.homework.repository.artist.Artist;
+import lecture9.homework.repository.song.Song;
+import lecture9.homework.service.SongServiceImpl;
+import lecture9.homework.service.artists.ArtistService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

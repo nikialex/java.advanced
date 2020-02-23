@@ -1,7 +1,9 @@
-package homework.repository.mapper;
+package lecture9.homework.repository.mapper;
 
 
-import homework.repository.artist.Artist;
+
+
+import lecture9.homework.repository.artist.Artist;
 import org.springframework.jdbc.core.RowMapper;
 
 import java.sql.ResultSet;

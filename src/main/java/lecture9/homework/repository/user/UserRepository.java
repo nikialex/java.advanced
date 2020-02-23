@@ -1,7 +1,7 @@
-package homework.repository.user;
+package lecture9.homework.repository.user;
 
 
-import homework.repository.mapper.UserRowMapper;
+import lecture9.homework.repository.mapper.UserRowMapper;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.stereotype.Repository;
 

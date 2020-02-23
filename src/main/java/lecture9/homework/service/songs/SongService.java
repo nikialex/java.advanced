@@ -1,6 +1,7 @@
-package homework.service.songs;
+package lecture9.homework.service.songs;
 
-import homework.repository.song.Song;
+
+import lecture9.homework.repository.song.Song;
 
 import java.util.List;
 

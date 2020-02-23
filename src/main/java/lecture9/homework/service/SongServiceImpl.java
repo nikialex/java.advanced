@@ -1,9 +1,9 @@
-package homework.service;
+package lecture9.homework.service;
 
 
-import homework.repository.song.Song;
-import homework.repository.song.SongRepository;
-import homework.service.songs.SongService;
+import lecture9.homework.repository.song.Song;
+import lecture9.homework.repository.song.SongRepository;
+import lecture9.homework.service.songs.SongService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

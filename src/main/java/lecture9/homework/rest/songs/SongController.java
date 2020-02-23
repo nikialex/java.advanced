@@ -1,8 +1,8 @@
-package homework.rest.songs;
+package lecture9.homework.rest.songs;
 
 
-import homework.repository.song.Song;
-import homework.service.songs.SongService;
+import lecture9.homework.repository.song.Song;
+import lecture9.homework.service.songs.SongService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

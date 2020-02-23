@@ -1,4 +1,4 @@
-package homework.repository.artist;
+package lecture9.homework.repository.artist;
 
 import lombok.Data;
 

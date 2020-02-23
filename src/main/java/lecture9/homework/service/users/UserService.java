@@ -1,6 +1,7 @@
-package homework.service.users;
+package lecture9.homework.service.users;
 
-import homework.repository.user.User;
+
+import lecture9.homework.repository.user.User;
 
 import java.util.List;
 

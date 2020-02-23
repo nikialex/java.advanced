@@ -1,11 +1,10 @@
-package homework.service.users.impl;
+package lecture9.homework.service.users.impl;
 
-
-import homework.repository.song.Song;
-import homework.repository.user.User;
-import homework.repository.user.UserRepository;
-import homework.service.SongServiceImpl;
-import homework.service.users.UserService;
+import lecture9.homework.repository.song.Song;
+import lecture9.homework.repository.user.User;
+import lecture9.homework.repository.user.UserRepository;
+import lecture9.homework.service.SongServiceImpl;
+import lecture9.homework.service.users.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,11 +1,13 @@
-package homework.service.artists.impl;
+package lecture9.homework.service.artists.impl;
 
 
-import homework.repository.artist.ArtistRepository;
+
+import lecture9.homework.repository.artist.Artist;
+import lecture9.homework.repository.artist.ArtistRepository;
+import lecture9.homework.service.artists.ArtistService;
 import org.springframework.stereotype.Service;
 
-import homework.repository.artist.Artist;
-import homework.service.artists.ArtistService;
+
 
 import java.util.List;
 

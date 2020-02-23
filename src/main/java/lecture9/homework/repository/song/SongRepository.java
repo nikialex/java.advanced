@@ -1,8 +1,5 @@
-package homework.repository.song;
-
-
-import homework.repository.mapper.SongRowMapper;
-
+package lecture9.homework.repository.song;
+import lecture9.homework.repository.mapper.SongRowMapper;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.stereotype.Repository;
 

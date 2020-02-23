@@ -1,7 +1,8 @@
-package homework.repository.artist;
+package lecture9.homework.repository.artist;
 
 
-import homework.repository.mapper.ArtistRowMapper;
+
+import lecture9.homework.repository.mapper.ArtistRowMapper;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.stereotype.Repository;
 

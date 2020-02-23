@@ -1,8 +1,8 @@
-package homework.rest.users;
+package lecture9.homework.rest.users;
 
 
-import homework.repository.user.User;
-import homework.service.users.UserService;
+import lecture9.homework.repository.user.User;
+import lecture9.homework.service.users.UserService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

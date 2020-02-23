@@ -1,6 +1,6 @@
-package homework.service.artists;
+package lecture9.homework.service.artists;
 
-import homework.repository.artist.Artist;
+import lecture9.homework.repository.artist.Artist;
 
 import java.util.List;
 

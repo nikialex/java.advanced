@@ -1,7 +1,7 @@
-package homework.repository.mapper;
+package lecture9.homework.repository.mapper;
 
 
-import homework.repository.song.Song;
+import lecture9.homework.repository.song.Song;
 import org.springframework.jdbc.core.RowMapper;
 
 import java.sql.ResultSet;
