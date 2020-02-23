@@ -12,7 +12,7 @@
     <groupId>com.example</groupId>
     <artifactId>rest-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>rest-jbdc.rest.jbdc.service</name>
+    <name>rest-homework.rest.homework.service</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
